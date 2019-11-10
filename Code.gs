@@ -1,3 +1,5 @@
+// In general based on https://ctrlq.org/code/19433-twitter-json-to-rss
+
 function JSONtoRSS(json) {
     
   try {
